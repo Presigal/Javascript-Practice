@@ -1,0 +1,37 @@
+body {
+  background-color: #26C2B3;
+  color: white;
+  font-size: 16px
+}
+
+.mainText {
+  background-color: #0F163F;
+  margin:auto;
+  font-family: "Arial Rounded MT";
+  text-align: center;
+  width: 95%;
+}
+
+.paragraphs {
+  padding-top: 30px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.signUpForm {
+  margin-top: 10px;
+}
+
+.signUpForm > input {
+  padding-bottom: 0px;
+}
+
+#button {
+  background-color: orange;
+  border: 4px solid gray;
+  padding: 25px;
+}
+
+/* #forBuffer {
+  margin-bottom: px
+} */

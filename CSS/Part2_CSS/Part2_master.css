@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+  background: green;
+}
+
+h2 {
+  color: green;
+  background: blue;
+}
+
+body {
+  background: url(https://m.media-amazon.com/images/I/71ahgsiQCsL._SS500_PIPJStripe-Robin-Large-V2,TopLeft,0,0_.jpg);
+  background-repeat:repeat;
+}
+
+div {
+  background-color: #0C9BB2;
+  border-color: blue;
+  border-width: 10px;
+  border-style: solid;
+}
+
+p {
+  color: yellow
+}
+
+span {
+  background-color: purple;
+}

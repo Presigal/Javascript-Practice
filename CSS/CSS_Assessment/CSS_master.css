@@ -1,0 +1,45 @@
+body {
+  background-color: #5FD3E5;
+}
+
+#titlepage {
+  border: 2px double black;
+  box-shadow: 5px 5px;
+}
+
+#thankyou {
+  background-color: #F6F397;
+}
+
+#randomtextbox{
+  border: 5px solid gray;
+}
+
+#logInBanner {
+  color: purple;
+}
+
+#firstLine {
+  color: purple;
+}
+
+a {
+  color: green;
+}
+
+.loginBox > h2{
+  color: purple;
+}
+
+.loginBox > input {
+  border: 3px solid red;
+}
+
+.feedback > p {
+  background-color: yellow;
+}
+
+.feedback {
+  background-color: blue;
+  border: 5px dotted yellow;
+}

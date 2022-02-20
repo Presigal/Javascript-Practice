@@ -1,0 +1,17 @@
+h1 {
+  font-family: "Arial";
+  font-size: 5.0em;
+}
+
+p {
+  font-family: monospace;
+  text-align: center;
+}
+
+body {
+  font-size: 12px;
+}
+
+#two {
+  font-size: 1.0em;
+}
